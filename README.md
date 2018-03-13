@@ -1,2 +1,2 @@
 # MachineLearning
-* 练习
+* GradientDescent.py 线性代数的梯度下降实现
